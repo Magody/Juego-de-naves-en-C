@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1500738286 source:c:\users\user\documents\programacion1\naves\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Inicializacion.h"
+	"pantalla.h"
+	"jugabilidad.h"
+	"Nave.h"
+	"Asteroides.h"
+	"Constantes.h"
+	"balas.h"
+
+1500737621 c:\users\user\documents\programacion1\naves\pantalla.h
+	"Asteroides.h"
+	"Constantes.h"
+
+1500737587 c:\users\user\documents\programacion1\naves\jugabilidad.h
+	<dos.h>
+	"Nave.h"
+	"Constantes.h"
+	"balas.h"
+
+1500737748 c:\users\user\documents\programacion1\naves\nave.h
+	"pantalla.h"
+	"balas.h"
+	"Constantes.h"
+
+1500687946 c:\users\user\documents\programacion1\naves\inicializacion.h
+	"pantalla.h"
+	"jugabilidad.h"
+	"Nave.h"
+	"Asteroides.h"
+	"Constantes.h"
+	"balas.h"
+
+1500737875 c:\users\user\documents\programacion1\naves\asteroides.h
+	"Nave.h"
+	"Constantes.h"
+
+1500736300 c:\users\user\documents\programacion1\naves\constantes.h
+
+1500685902 c:\users\user\documents\programacion1\naves\balas.h
+	"pantalla.h"
+	"Constantes.h"
+
+1500738606 source:c:\users\user\documents\lenguajes programacion\programacion 1\naves\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Inicializacion.h"
+	"pantalla.h"
+	"jugabilidad.h"
+	"Nave.h"
+	"Asteroides.h"
+	"Constantes.h"
+	"balas.h"
+
+1500687946 c:\users\user\documents\lenguajes programacion\programacion 1\naves\inicializacion.h
+	"pantalla.h"
+	"jugabilidad.h"
+	"Nave.h"
+	"Asteroides.h"
+	"Constantes.h"
+	"balas.h"
+
+1500737621 c:\users\user\documents\lenguajes programacion\programacion 1\naves\pantalla.h
+	"Asteroides.h"
+	"Constantes.h"
+
+1500737875 c:\users\user\documents\lenguajes programacion\programacion 1\naves\asteroides.h
+	"Nave.h"
+	"Constantes.h"
+
+1500737748 c:\users\user\documents\lenguajes programacion\programacion 1\naves\nave.h
+	"pantalla.h"
+	"balas.h"
+	"Constantes.h"
+
+1500685902 c:\users\user\documents\lenguajes programacion\programacion 1\naves\balas.h
+	"pantalla.h"
+	"Constantes.h"
+
+1500736300 c:\users\user\documents\lenguajes programacion\programacion 1\naves\constantes.h
+
+1500737587 c:\users\user\documents\lenguajes programacion\programacion 1\naves\jugabilidad.h
+	<dos.h>
+	"Nave.h"
+	"Constantes.h"
+	"balas.h"
+
